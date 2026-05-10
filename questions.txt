@@ -1,0 +1,50 @@
+Science|Qual e' il pianeta piu' grande del sistema solare?|Saturno|Giove|Nettuno|Urano|B
+Science|Quanti elementi ci sono nella tavola periodica?|108|112|118|124|C
+Science|Qual e' il simbolo chimico dell'oro?|Go|Or|Au|Ag|C
+Science|Quante ossa ha il corpo umano adulto?|206|212|198|220|A
+Science|Qual e' la velocita' della luce nel vuoto?|300.000 km/s|150.000 km/s|450.000 km/s|200.000 km/s|A
+Science|Qual e' il gas piu' abbondante nell'atmosfera terrestre?|Ossigeno|Anidride carbonica|Azoto|Argon|C
+Science|Quanti cromosomi ha una cellula umana normale?|23|44|46|48|C
+Science|Qual e' la formula chimica dell'acqua?|HO|H2O|H3O|H2O2|B
+Science|Chi ha scoperto la penicillina?|Louis Pasteur|Alexander Fleming|Marie Curie|Albert Einstein|B
+Science|Qual e' l'organo piu' grande del corpo umano?|Fegato|Cervello|Pelle|Cuore|C
+Science|Quanti pianeti ci sono nel sistema solare?|7|8|9|10|B
+Science|Qual e' il punto di ebollizione dell'acqua a livello del mare?|90 gradi|95 gradi|100 gradi|105 gradi|C
+Science|Da cosa e' composto il nucleo atomico?|Protoni ed elettroni|Neutroni ed elettroni|Protoni e neutroni|Solo protoni|C
+Science|Qual e' l'unita' di misura della forza nel Sistema Internazionale?|Joule|Watt|Pascal|Newton|D
+Science|Quante camere ha il cuore umano?|2|3|4|5|C
+Science|Qual e' il pianeta piu' vicino al Sole?|Venere|Marte|Mercurio|Terra|C
+Science|Qual e' il simbolo chimico del ferro?|Fr|Fe|Fi|Fo|B
+History|In quale anno e' caduto l'Impero Romano d'Occidente?|410|455|476|500|C
+History|Chi era il faraone durante la costruzione della Grande Piramide di Giza?|Ramses II|Tutankhamon|Cheope|Nefertiti|C
+History|In quale anno e' iniziata la Prima Guerra Mondiale?|1912|1914|1916|1918|B
+History|Chi ha dipinto la Cappella Sistina?|Leonardo da Vinci|Raffaello|Michelangelo|Botticelli|C
+History|In quale citta' e' stata firmata la Magna Carta?|Londra|Oxford|Windsor|Canterbury|C
+History|Chi era il primo presidente degli Stati Uniti?|Abraham Lincoln|Thomas Jefferson|Benjamin Franklin|George Washington|D
+History|In quale anno e' caduto il Muro di Berlino?|1987|1988|1989|1990|C
+History|Chi ha guidato la rivoluzione cubana?|Che Guevara|Fidel Castro|Raul Castro|Camilo Cienfuegos|B
+History|Qual e' stato il primo paese a concedere il voto alle donne?|USA|Francia|Nuova Zelanda|Regno Unito|C
+History|In quale anno Cristoforo Colombo ha raggiunto le Americhe?|1488|1490|1492|1494|C
+History|Chi era l'imperatore di Francia durante le guerre napoleoniche?|Luigi XVI|Carlo X|Napoleone Bonaparte|Luigi XVIII|C
+History|In quale anno e' iniziata la Seconda Guerra Mondiale?|1937|1938|1939|1940|C
+History|Quale civilta' ha costruito il Colosseo?|Greca|Romana|Etrusca|Bizantina|B
+History|Chi ha scritto la Divina Commedia?|Francesco Petrarca|Giovanni Boccaccio|Dante Alighieri|Ludovico Ariosto|C
+History|In quale anno e' avvenuta la Rivoluzione Francese?|1776|1783|1789|1799|C
+History|Qual e' la capitale dell'antico Impero Romano?|Cartagine|Atene|Costantinopoli|Roma|D
+History|Chi era il leader dell'URSS durante la Seconda Guerra Mondiale?|Lenin|Krusciov|Trotsky|Stalin|D
+Technology|Chi ha fondato Microsoft?|Steve Jobs|Bill Gates|Mark Zuckerberg|Larry Page|B
+Technology|In quale anno e' stato lanciato il primo iPhone?|2005|2006|2007|2008|C
+Technology|Cosa significa l'acronimo CPU?|Central Processing Unit|Computer Power Unit|Central Program Utility|Core Processing Unit|A
+Technology|Qual e' il linguaggio di programmazione piu' usato per i siti web lato client?|Python|Java|JavaScript|PHP|C
+Technology|Chi ha inventato il World Wide Web?|Bill Gates|Tim Berners-Lee|Vint Cerf|Steve Jobs|B
+Technology|Cosa significa RAM?|Random Access Memory|Read Access Module|Rapid Application Memory|Remote Access Mode|A
+Technology|Qual e' il sistema operativo piu' diffuso per smartphone?|iOS|Windows Mobile|Android|HarmonyOS|C
+Technology|In quale anno e' stato fondato Google?|1996|1998|2000|2002|B
+Technology|Quanti bit ci sono in un byte?|4|6|8|16|C
+Technology|Cosa fa un firewall?|Velocizza la connessione|Protegge la rete da accessi non autorizzati|Comprime i file|Gestisce la memoria|B
+Technology|Qual e' il nome del primo computer elettronico generale?|UNIVAC|ENIAC|IBM 701|Colossus|B
+Technology|Chi ha creato il linguaggio di programmazione Python?|James Gosling|Guido van Rossum|Brendan Eich|Dennis Ritchie|B
+Technology|Cosa significa HTTP?|HyperText Transfer Protocol|High Tech Transfer Program|HyperText Transmission Process|Host Transfer Technology Protocol|A
+Technology|Qual e' l'estensione dei file eseguibili in Windows?|.bat|.run|.exe|.bin|C
+Technology|In quale anno e' stato lanciato YouTube?|2003|2004|2005|2006|C
+Technology|Cosa significa SSD?|Super Speed Drive|Solid State Drive|System Storage Device|Secure Server Disk|B
